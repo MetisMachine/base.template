@@ -1,0 +1,5 @@
+project_token: {{token}}
+name: {{name}}
+language: {{language}}
+environment:
+  - key: value
