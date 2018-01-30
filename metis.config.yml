@@ -1,9 +1,4 @@
 project_token: {{token}}
 name: {{name}}
-project_tasks: 
-   - project_task_id: {{project_task_id}}
-     name: {{project_task_name}}
-     language: python
-     entrypoint: main.py
-
-
+language: python
+entrypoint: main.py
