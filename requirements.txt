@@ -1,1 +1,1 @@
-skafossdk>=0.0.11
+skafossdk==1.0.0
