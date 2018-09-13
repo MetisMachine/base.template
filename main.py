@@ -1,7 +1,8 @@
-import skafossdk as Skafos
+from skafossdk import *
 
-def hello_world():
-  print("Hello, world.")
+def hello_world(skafos):
+  skafos.log("Hello, world.", labels=['hello'])
 
 if __name__ == "__main__":
-  hello_world()
+  ska = Skafos()
+  hello_world(skafos=ska)
