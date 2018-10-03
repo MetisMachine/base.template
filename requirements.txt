@@ -1,1 +1,1 @@
-skafossdk>=1.1.7
+skafossdk>=1.1.8
